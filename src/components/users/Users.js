@@ -6,9 +6,9 @@ class Users extends Component {
     users: [
       {
         id: '1',
-        login: 'mojombo',
-        avatar_url: 'https://avatars.githubusercontent.com/u/1?v=4',
-        html_url: 'https://github.com/mojombo'
+        login: 'mac2503',
+        avatar_url: 'https://avatars.githubusercontent.com/u/62885919?v=4',
+        html_url: 'https://github.com/mac2503'
       },
       {
         id: '2',
